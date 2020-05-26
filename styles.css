@@ -5,6 +5,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 body {
   height: 100vh;
   display: flex;
+  overflow: hidden;
 }
 h1{
   font-family: 'Courier New', Courier, monospace;
